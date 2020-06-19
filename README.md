@@ -1,6 +1,6 @@
 # GrimoireApp
 
-A new Flutter project.
+WORK IN PROGRESS
 
 ## Getting Started
 
